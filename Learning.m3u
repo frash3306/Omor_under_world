@@ -2,11 +2,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", sports
 http://103.190.85.38/hls/tsports.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", jomuna tv
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
